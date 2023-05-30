@@ -13,6 +13,7 @@ FEATURES
 - possibilità di aggiungere modificare e rimuovere le escursioni tramite una visualizzazione a calendario.
 - possibilità di aggiungere più prenotazioni ad ogni escursione programmata.
 - generazione di un ticket con QR Code per ogni prenotazione
+- Invio del ticket generato tramite Whatsapp o Email
 - convalida del ticket tramite lettura del QR Code
 - Statisitche delle escursioni 
 - Backend interamente gestito da Firebase Firestore
